@@ -1,6 +1,6 @@
 - 👋 Hi, myself Jainam.
 - 👀 I’m interested in Java, Python, Scripting, crptography & web development.
-- 🌱 I’m currently learning C, Java, Python, HTML-CSS-JS and still counting... ;-)
+- 🌱 I’m currently learning HTML-CSS-JS, React, Bootstrap and still counting... ;-)
 - 💞️ I’m looking to collaborate on projects which are productive to me as well as to other people too. 🙂
 - 📫 You can reach to me via discord. (Jainam#9492)
 
